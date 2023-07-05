@@ -4,18 +4,18 @@ This plant store is created to sell mostly indian variety plants along with some
 These HTML pages have external css, inline and internal styling with javascript callbacks and events.
 
 The html pages have the following tags 
-- <a>
-- <h1>
-- <img>
-- <div>
-- <label>
-- <input>
-- <p>
-- <style>
-- <form>
-- <table>
-- <button>
-- <body>
+- a
+- h1
+- img
+- div
+- label
+- input
+- p
+- style
+- form
+- table
+- button
+- body
 
 with below CSS selectors
 
