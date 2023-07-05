@@ -1,0 +1,14 @@
+
+h1 {
+  color: rgb(35, 89, 170);
+}
+.border-green {
+  border: 10px solid green;
+}
+a:hover {
+  background-color: rgb(52, 170, 52) !important;
+  color: white !important;
+}
+div h3 {
+  text-indent: 40% !important;
+}
